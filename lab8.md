@@ -43,7 +43,7 @@ Matrix M(3,3);
 Matrix N(3,2);
 
 K=M*N;
-A=M*M;
+A=M+M;
 B=M-M;
 ```
 

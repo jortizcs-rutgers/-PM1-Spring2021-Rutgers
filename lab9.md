@@ -2,7 +2,7 @@
 Operator overloading syntax
 
 ## Problem 1
-Implement the transpose function and use it for doing matrix multiplication.  Write a member function for the Matrix class 'transpose()' which performs the transpose operation on the Matrix.
+Implement the transpose function and use it for doing matrix multiplication.  Write a member function for the Matrix class 'transpose()' which performs the transpose operation on the Matrix.  That is, it swaps the number elements of the rows and columns, so element at position (i,j) will be in position (j,i) after transpose.
 
 ```
 Matrix M(3,3);

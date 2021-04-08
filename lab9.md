@@ -26,7 +26,7 @@ M2 = 3DMatrix(4,20,2);
 M3 = M1*M2;  // dimensionality of M3 is (3,20,2)
 ```
 
-## Problem 4 (extra credit problem)
+## Problem 3 (extra credit problem)
 Overload the input and output stream operators to display the Matrix and to populate a Matrix from cin;
 
 ```

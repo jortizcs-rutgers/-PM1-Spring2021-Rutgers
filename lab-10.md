@@ -16,7 +16,7 @@ Code: https://onlinegdb.com/rkguDk48O
 
 
 ## Problem 2
-Observe the code for a Stack implementation in C++:  https://onlinegdb.com/Bk_ttJELu
+Observe the code for a Stack implementation in C++:  https://onlinegdb.com/SkCSmxN8d
 
 a. Change the code using into template form to take any type of data.
 

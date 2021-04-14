@@ -22,5 +22,7 @@ a. Change the code using into template form to take any type of data.
 
 b. How would you design a stack which, in addition to push and pop, has a function min which returns the minimum element? Push, pop and min should all operate in O(1) time.  By O(1) time, we mean your solution should not search the whole stack or create a temporary stack in order to find the minimum element.
 
+For part (b), create a new Stack that inherits from the templated Stack Object and implements the algorithm you design to find the min in constant time.
+
 
 

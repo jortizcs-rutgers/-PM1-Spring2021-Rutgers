@@ -1,5 +1,5 @@
 # Lab-10
-Linked Lists, Stacks, Queues
+Linked Lists & Stacks
 
 ## Problem 1
 Delete Middle Node: Implement an function to delete a node in the middle (i.e., any node but
